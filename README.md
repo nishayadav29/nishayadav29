@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nishayadav29
-- 👀 I’m interested in devops
-- 🌱 I’m currently learning docker
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Docker
+- 💞️ I’m looking to collaborate on DevOps projects
+.
 
 <!---
 nishayadav29/nishayadav29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
