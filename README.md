@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishayadav29&label=Profile%20views&color=0e75b6&style=flat" alt="nishayadav29" /> </p>
 
+
+</p>
+<img align="right" alt="Coding" width="400" src="https://github.com/nishayadav29/nishayadav29/blob/main/DEVOPSIMG.gif?raw=true" width="300" alt="DevOps Animation"/>
+<p align="left">
+
 - 🔭 I’m currently working on [15DAYSOFDEVOPS](https://github.com/nishayadav29/15daysofdevops)
 
 - 🌱 I’m currently learning **Advanced Linux for DevOps, Networking & systemd automation, Kubernetes**
@@ -14,9 +19,7 @@
 - 📫 How to reach me **nisha.yadav.24.ny@gmail.com**
 
 - ⚡ Fun fact **I enjoy breaking complex systems into simple, understandable workflows 😄**
-</p>
-<img align="right" alt="Coding" width="400" src="https://github.com/nishayadav29/nishayadav29/blob/main/DEVOPSIMG.gif?raw=true" width="300" alt="DevOps Animation"/>
-<p align="left">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//nisha-yadav-2b5b28199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/nisha-yadav-2b5b28199" height="30" width="40" /></a>
