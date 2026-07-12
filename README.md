@@ -8,7 +8,8 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/nishayadav29/nishayadav29/blob/main/DEVOPSIMG.gif?raw=true" width="300" alt="DevOps Animation"/>
 <p align="left">
 
-- 🔭 I’m currently working on [15DAYSOFDEVOPS](https://github.com/nishayadav29/15daysofdevops)
+- 🔭 I’m currently working on [production-kubernetes-platform
+](https://github.com/nishayadav29/production-kubernetes-platform)
 
 - 🌱 I’m currently learning **Advanced Linux for DevOps, Networking & systemd automation, Kubernetes**
 
